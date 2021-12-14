@@ -1,0 +1,44 @@
+cookies:
+https://wenku.baidu.com/
+
+
+"https://wenku.baidu.com/portal/interface/indexmysub2020"
+"setImmediate$" + Math.random() + "$"
+
+login_token:
+https://passport.baidu.com/v2/api/?getapi
+&token=&tpl=do&subpro=&apiver=v3&tt=1636971650508&class=login&gid=486F941-7D0B-48F8-9ED7-4BECA2CE3D86&loginversion=v4&logintype=dialogLogin&traceid=&time=1636971651&alg=v3&sig=WVpSNWZSZkdhRjBsUG5TUHIzbXFueUxHZzNLUUJuYVhTUHBjaFdIbGxGM21Sd0RTOEd0TFNnamhzdStYcDc4RQ%3D%3D&elapsed=2&shaOne=0044fe786241f4cd433aa3ad808ff7022219f1e9&callback=bd__cbs__gwtqtl
+
+login_check:
+https://passport.baidu.com/v2/api/?logincheck
+&token=da6549c8967deccab68e5c2360cee7bf&tpl=do&subpro=&apiver=v3&tt=1636971651146&sub_source=leadsetpwd&username=15605818134&loginversion=v4&dv=tk0.70413958228118781636971650884%40nnbfukqVst2BEzvhHscUG2CFLftxLzczAyslHZ2DI4-lCThd~ppKCp-m4T3Wh-bho4-luk3zxbf50V-uTA-CktfBHG~oTp~oHt~Cf6xCToyBHAxCTG-Bk6ahboKnEaAnobulcwI8gS54g198P354gTNyaiunsjI0sZK8gPIq__ub0npom-DoH3lom-xBHqfukolCH3VoH3lom-xok6-uktgoTqVoH3lom-xokF-&traceid=&time=1636971651&alg=v3&sig=MC9KMGQ2S3phNFdQc29aV3Uwb3JhcDRPcExONlc1bTl0QVJVbUNSaytOcmlmaVgrWldTWG9zcWpPN3VEYjBRZg%3D%3D&elapsed=25&shaOne=007c364e3bf531740afb2bbab465794fdd655d2d&rinfo=%7B%22fuid%22%3A%22b2afb5660e33e178ee0b7586dfa12078%22%7D&callback=bd__cbs__9i2chj
+
+list:
+https://wenku.baidu.com/gsearch/search/pcsearch?word=%E8%A1%A8&lm=1&od=0&fr=top_home&ie=utf-8&fd=2&pn=1
+
+token(detail):
+https://wenku.baidu.com/view/eadf5620a8956bec0975e38c.html?fixfr=AdelfKq25pr2X5TReHIp9g%253D%253D&fr=income6-search
+
+download:
+https://wenku.baidu.com/gdoc/download/down
+useTicket: 0
+downloadToken: de4ae59692e1b135036275057d970e7b
+ct: 20008
+retType: newResponse
+sns_type: 
+doc_id: eadf5620a8956bec0975e38c
+storage: 0
+target_uticket_num: 0
+sz: 29184
+v_code: 
+v_input: 
+ds: 0
+tk: 0
+req_vip_free_doc: 1
+docId: eadf5620a8956bec0975e38c
+targetUticketNum: 0
+reqVipFreeDoc: 1
+
+
+https://wkdsp.baidu.com/api/get
+{"pid":1,"exinfo":"","slotinfo":[{"slotid":53,"mustshow":1,"num":1,"keyword":"思想表现鉴定表"},{"slotid":46,"mustshow":0,"num":1,"keyword":"思想表现鉴定表"},{"slotid":68,"mustshow":1,"num":1,"keyword":"思想表现鉴定表"}],"flowType":"pc"}: 
